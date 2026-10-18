@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Hledat</string>
+    <string name="action_refresh">Obnovit</string>
+    <string name="action_share">Sdílet</string>
+    <string name="action_close">Zavřít</string>
+    <string name="action_print">Tisk</string>
+    <string name="action_copy">Kopírovat do schránky</string>
+    <string name="action_open_browser">Otevřít v prohlížeči</string>
+    <string name="shake_to_clear_cache">Chcete-li smazat mezipaměť, zatřeste zařízením.</string>
+    <string-array name="device_shaken_options">
+        <item>Smazat mezipaměť</item>
+        <item>Zrušit</item>
+    </string-array>
+    <string name="drawer_open">Otevřít navigační panel</string>
+    <string name="drawer_close">Zavřít navigační panel</string>
+    <string name="search_hint">Hledat</string>
+    <string name="form_error">Při odesílání nastal problém. Zkontrolujte zadané údaje a zkuste to znovu.</string>
+    <string name="download">Stáhnout</string>
+    <string name="download_canceled">Stahování zrušeno</string>
+    <string name="download_channel_name">Stahování souborů</string>
+    <string name="download_channel_description">Oznámení o stahování souborů</string>
+    <string name="download_in_progress">Probíhá stahování</string>
+    <string name="download_complete">Stahování dokončeno</string>
+    <string name="download_disconnected">Připojení pro stahování selhalo.</string>
+    <string name="upload_camera_permission_denied">Oprávnění k fotoaparátu zamítnuto</string>
+    <string name="file_handler_not_found">Nepodařilo se najít aplikaci pro otevření tohoto souboru.</string>
+    <string name="cannot_open_file_chooser">Nepodařilo se otevřít výběr souborů pro tento typ souboru.</string>
+    <string name="external_storage_explanation">Chcete-li nahrát soubor, povolte přístup k fotkám.</string>
+    <string name="ssl_error_generic">Chyba při navazování připojení SSL</string>
+    <string name="ssl_error_expired">Platnost certifikátu SSL vypršela</string>
+    <string name="ssl_error_cert">Neplatný certifikát SSL</string>
+    <string name="location_services_not_enabled">Chcete-li pokračovat, zapněte polohu zařízení, která využívá službu určování polohy Google</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušit</string>
+    <string name="no_thanks">Ne, děkuji</string>
+    <string name="request_permission_explanation_geolocation">Povolte prosím přístup k poloze</string>
+    <string name="request_permission_explanation_storage">Pro stažení souboru povolte prosím přístup k úložišti</string>
+    <string name="starting_download">Spouštění stahování</string>
+    <string name="subscriptions_activity_title">Předplatné</string>
+    <string name="cleared_cache">Mezipaměť vymazána</string>
+    <string name="app_logo">Logo aplikace</string>
+    <string name="google_service_required">Soubor Google Service JSON nebyl správně nastaven.</string>
+    <string name="choose_action">Vyberte akci</string>
+    <string name="app_not_installed">Aplikace není nainstalována</string>
+    <string name="file_download_title">Stahování zahájeno</string>
+    <string name="file_download_finished">Soubor stažen</string>
+    <string name="file_download_finished_with_name">Soubor %1$s stažen</string>
+    <string name="file_download_error">Chyba stahování</string>
+    <string name="file_download_finished_gallery">Obrázek uložen do Galerie</string>
+</resources>

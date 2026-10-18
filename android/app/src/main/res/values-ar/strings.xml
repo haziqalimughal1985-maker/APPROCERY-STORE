@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">بحث</string>
+    <string name="action_refresh">تحديث</string>
+    <string name="action_share">مشاركة</string>
+    <string name="action_close">إغلاق</string>
+    <string name="action_print">طباعة</string>
+    <string name="action_copy">نسخ إلى الحافظة</string>
+    <string name="action_open_browser">فتح في المتصفح</string>
+    <string name="shake_to_clear_cache">هزّ الجهاز لحذف ذاكرة التخزين المؤقت</string>
+    <string-array name="device_shaken_options">
+        <item>حذف ذاكرة التخزين المؤقت</item>
+        <item>إلغاء</item>
+    </string-array>
+    <string name="drawer_open">فتح الدرج</string>
+    <string name="drawer_close">إغلاق الدرج</string>
+    <string name="search_hint">بحث</string>
+    <string name="form_error">حدثت مشكلة أثناء الإرسال. تحقق من البيانات وحاول مرة أخرى.</string>
+    <string name="download">تنزيل</string>
+    <string name="download_canceled">تم إلغاء التنزيل</string>
+    <string name="download_channel_name">تنزيلات الملفات</string>
+    <string name="download_channel_description">إشعارات تنزيل الملفات</string>
+    <string name="download_in_progress">جارٍ التنزيل</string>
+    <string name="download_complete">اكتمل التنزيل</string>
+    <string name="download_disconnected">فشل اتصال التنزيل.</string>
+    <string name="upload_camera_permission_denied">تم رفض إذن الكاميرا</string>
+    <string name="file_handler_not_found">تعذّر العثور على تطبيق لفتح هذا الملف.</string>
+    <string name="cannot_open_file_chooser">تعذّر فتح أداة اختيار الملفات للتعامل مع هذا النوع من الملفات.</string>
+    <string name="external_storage_explanation">اسمح بالوصول إلى الصور لرفع الملف.</string>
+    <string name="ssl_error_generic">حدث خطأ أثناء إنشاء اتصال SSL</string>
+    <string name="ssl_error_expired">انتهت صلاحية شهادة SSL</string>
+    <string name="ssl_error_cert">شهادة SSL غير صالحة</string>
+    <string name="location_services_not_enabled">للمتابعة، فعّل خدمة الموقع على جهازك، والتي تستخدم خدمة الموقع من Google</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">إلغاء</string>
+    <string name="no_thanks">لا، شكرًا</string>
+    <string name="request_permission_explanation_geolocation">يُرجى السماح بإذن الموقع</string>
+    <string name="request_permission_explanation_storage">يُرجى السماح بإذن التخزين لتنزيل الملف</string>
+    <string name="starting_download">جارٍ بدء التنزيل</string>
+    <string name="subscriptions_activity_title">الاشتراكات</string>
+    <string name="cleared_cache">تم مسح ذاكرة التخزين المؤقت</string>
+    <string name="app_logo">شعار التطبيق</string>
+    <string name="google_service_required">لم يتم إعداد ملف Google Service JSON بشكل صحيح.</string>
+    <string name="choose_action">اختر إجراءً</string>
+    <string name="app_not_installed">التطبيق غير مثبّت</string>
+    <string name="file_download_title">بدأ التنزيل</string>
+    <string name="file_download_finished">تم تنزيل الملف</string>
+    <string name="file_download_finished_with_name">تم تنزيل %1$s</string>
+    <string name="file_download_error">خطأ في التنزيل</string>
+    <string name="file_download_finished_gallery">تم حفظ الصورة في المعرض</string>
+</resources>

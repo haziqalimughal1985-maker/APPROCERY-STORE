@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Keresés</string>
+    <string name="action_refresh">Frissítés</string>
+    <string name="action_share">Megosztás</string>
+    <string name="action_close">Bezárás</string>
+    <string name="action_print">Nyomtatás</string>
+    <string name="action_copy">Másolás a vágólapra</string>
+    <string name="action_open_browser">Megnyitás böngészőben</string>
+    <string name="shake_to_clear_cache">Rázza meg a készüléket a gyorsítótár törléséhez</string>
+    <string-array name="device_shaken_options">
+        <item>Gyorsítótár törlése</item>
+        <item>Mégse</item>
+    </string-array>
+    <string name="drawer_open">Navigációs menü megnyitása</string>
+    <string name="drawer_close">Navigációs menü bezárása</string>
+    <string name="search_hint">Keresés</string>
+    <string name="form_error">Hiba a beküldés során. Ellenőrizze a megadott adatokat, és próbálja újra.</string>
+    <string name="download">Letöltés</string>
+    <string name="download_canceled">Letöltés megszakítva</string>
+    <string name="download_channel_name">Fájlletöltések</string>
+    <string name="download_channel_description">Értesítések a fájlletöltésekről</string>
+    <string name="download_in_progress">Letöltés folyamatban</string>
+    <string name="download_complete">Letöltés kész</string>
+    <string name="download_disconnected">A letöltési kapcsolat megszakadt.</string>
+    <string name="upload_camera_permission_denied">Kamera-hozzáférés megtagadva</string>
+    <string name="file_handler_not_found">Nem található alkalmazás a fájl megnyitásához.</string>
+    <string name="cannot_open_file_chooser">Nem sikerült megnyitni a fájlválasztót ehhez a fájltípushoz.</string>
+    <string name="external_storage_explanation">Engedélyezze a fotók elérését a fájl feltöltéséhez.</string>
+    <string name="ssl_error_generic">Hiba az SSL-kapcsolat létrehozásakor</string>
+    <string name="ssl_error_expired">Az SSL-tanúsítvány lejárt</string>
+    <string name="ssl_error_cert">Érvénytelen SSL-tanúsítvány</string>
+    <string name="location_services_not_enabled">A folytatáshoz kapcsolja be a készülék helymeghatározását, amely a Google helymeghatározási szolgáltatását használja</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="no_thanks">Köszönöm, nem</string>
+    <string name="request_permission_explanation_geolocation">Engedélyezze a helymeghatározást</string>
+    <string name="request_permission_explanation_storage">Engedélyezze a tárhely elérését a fájl letöltéséhez</string>
+    <string name="starting_download">Letöltés indítása</string>
+    <string name="subscriptions_activity_title">Előfizetések</string>
+    <string name="cleared_cache">Gyorsítótár törölve</string>
+    <string name="app_logo">Alkalmazás logója</string>
+    <string name="google_service_required">A Google Service JSON nincs megfelelően beállítva.</string>
+    <string name="choose_action">Válasszon műveletet</string>
+    <string name="app_not_installed">Az alkalmazás nincs telepítve</string>
+    <string name="file_download_title">Letöltés elindítva</string>
+    <string name="file_download_finished">Fájl letöltve</string>
+    <string name="file_download_finished_with_name">%1$s letöltve</string>
+    <string name="file_download_error">Letöltési hiba</string>
+    <string name="file_download_finished_gallery">Kép mentve a Galériába</string>
+</resources>

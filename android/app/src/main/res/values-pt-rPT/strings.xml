@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Pesquisar</string>
+    <string name="action_refresh">Atualizar</string>
+    <string name="action_share">Partilhar</string>
+    <string name="action_close">Fechar</string>
+    <string name="action_print">Imprimir</string>
+    <string name="action_copy">Copiar para a área de transferência</string>
+    <string name="action_open_browser">Abrir no navegador</string>
+    <string name="shake_to_clear_cache">Agite o dispositivo para eliminar a cache</string>
+    <string-array name="device_shaken_options">
+        <item>Eliminar cache</item>
+        <item>Cancelar</item>
+    </string-array>
+    <string name="drawer_open">Abrir painel de navegação</string>
+    <string name="drawer_close">Fechar painel de navegação</string>
+    <string name="search_hint">Pesquisar</string>
+    <string name="form_error">Ocorreu um problema com o envio. Verifique os dados e tente novamente.</string>
+    <string name="download">Transferir</string>
+    <string name="download_canceled">Transferência cancelada</string>
+    <string name="download_channel_name">Transferências de ficheiros</string>
+    <string name="download_channel_description">Notificações de transferências de ficheiros</string>
+    <string name="download_in_progress">Transferência em curso</string>
+    <string name="download_complete">Transferência concluída</string>
+    <string name="download_disconnected">Falha na ligação da transferência.</string>
+    <string name="upload_camera_permission_denied">Autorização da câmara recusada</string>
+    <string name="file_handler_not_found">Não foi possível encontrar uma app para abrir este ficheiro.</string>
+    <string name="cannot_open_file_chooser">Não foi possível abrir o seletor de ficheiros para este tipo de ficheiro.</string>
+    <string name="external_storage_explanation">Permita o acesso às fotografias para carregar o ficheiro.</string>
+    <string name="ssl_error_generic">Erro ao estabelecer a ligação SSL</string>
+    <string name="ssl_error_expired">O certificado SSL expirou</string>
+    <string name="ssl_error_cert">Certificado SSL inválido</string>
+    <string name="location_services_not_enabled">Para continuar, ative a localização do dispositivo, que utiliza o serviço de localização da Google</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="no_thanks">Não, obrigado</string>
+    <string name="request_permission_explanation_geolocation">Permita o acesso à localização</string>
+    <string name="request_permission_explanation_storage">Permita o acesso ao armazenamento para transferir o ficheiro</string>
+    <string name="starting_download">A iniciar a transferência</string>
+    <string name="subscriptions_activity_title">Subscrições</string>
+    <string name="cleared_cache">Cache limpa</string>
+    <string name="app_logo">Logótipo da app</string>
+    <string name="google_service_required">O JSON do serviço Google não foi configurado corretamente.</string>
+    <string name="choose_action">Escolha uma ação</string>
+    <string name="app_not_installed">A app não está instalada</string>
+    <string name="file_download_title">Transferência iniciada</string>
+    <string name="file_download_finished">Ficheiro transferido</string>
+    <string name="file_download_finished_with_name">%1$s transferido</string>
+    <string name="file_download_error">Erro de transferência</string>
+    <string name="file_download_finished_gallery">Imagem guardada na Galeria</string>
+</resources>

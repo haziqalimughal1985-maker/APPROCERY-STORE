@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">חיפוש</string>
+    <string name="action_refresh">רענון</string>
+    <string name="action_share">שיתוף</string>
+    <string name="action_close">סגירה</string>
+    <string name="action_print">הדפסה</string>
+    <string name="action_copy">העתקה ללוח</string>
+    <string name="action_open_browser">פתיחה בדפדפן</string>
+    <string name="shake_to_clear_cache">יש לנער את המכשיר כדי למחוק את המטמון</string>
+    <string-array name="device_shaken_options">
+        <item>מחיקת המטמון</item>
+        <item>ביטול</item>
+    </string-array>
+    <string name="drawer_open">פתיחת תפריט הניווט</string>
+    <string name="drawer_close">סגירת תפריט הניווט</string>
+    <string name="search_hint">חיפוש</string>
+    <string name="form_error">אירעה בעיה בשליחה. יש לבדוק את הפרטים ולנסות שוב.</string>
+    <string name="download">הורדה</string>
+    <string name="download_canceled">ההורדה בוטלה</string>
+    <string name="download_channel_name">הורדות קבצים</string>
+    <string name="download_channel_description">התראות על הורדות קבצים</string>
+    <string name="download_in_progress">מתבצעת הורדה</string>
+    <string name="download_complete">ההורדה הושלמה</string>
+    <string name="download_disconnected">החיבור להורדה נכשל.</string>
+    <string name="upload_camera_permission_denied">ההרשאה למצלמה נדחתה</string>
+    <string name="file_handler_not_found">לא נמצאה אפליקציה לפתיחת הקובץ הזה.</string>
+    <string name="cannot_open_file_chooser">לא ניתן לפתוח את בורר הקבצים עבור סוג הקובץ הזה.</string>
+    <string name="external_storage_explanation">כדי להעלות את הקובץ, יש לאפשר גישה לתמונות.</string>
+    <string name="ssl_error_generic">שגיאה ביצירת חיבור SSL</string>
+    <string name="ssl_error_expired">פג תוקף אישור ה-SSL</string>
+    <string name="ssl_error_cert">אישור SSL לא תקין</string>
+    <string name="location_services_not_enabled">כדי להמשיך, יש להפעיל את המיקום במכשיר, המשתמש בשירות המיקום של Google</string>
+    <string name="ok">אישור</string>
+    <string name="cancel">ביטול</string>
+    <string name="no_thanks">לא תודה</string>
+    <string name="request_permission_explanation_geolocation">יש לאפשר את ההרשאה למיקום</string>
+    <string name="request_permission_explanation_storage">כדי להוריד קבצים, יש לאפשר את ההרשאה לאחסון</string>
+    <string name="starting_download">ההורדה מתחילה</string>
+    <string name="subscriptions_activity_title">מינויים</string>
+    <string name="cleared_cache">המטמון נוקה</string>
+    <string name="app_logo">הלוגו של האפליקציה</string>
+    <string name="google_service_required">קובץ ה-JSON של שירות Google לא הוגדר כראוי.</string>
+    <string name="choose_action">בחירת פעולה</string>
+    <string name="app_not_installed">האפליקציה לא מותקנת</string>
+    <string name="file_download_title">ההורדה החלה</string>
+    <string name="file_download_finished">הקובץ הורד</string>
+    <string name="file_download_finished_with_name">%1$s הורד</string>
+    <string name="file_download_error">שגיאת הורדה</string>
+    <string name="file_download_finished_gallery">התמונה נשמרה בגלריה</string>
+</resources>

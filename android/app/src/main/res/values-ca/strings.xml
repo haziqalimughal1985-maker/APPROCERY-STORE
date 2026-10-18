@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Cerca</string>
+    <string name="action_refresh">Actualitza</string>
+    <string name="action_share">Comparteix</string>
+    <string name="action_close">Tanca</string>
+    <string name="action_print">Imprimeix</string>
+    <string name="action_copy">Copia al porta-retalls</string>
+    <string name="action_open_browser">Obre al navegador</string>
+    <string name="shake_to_clear_cache">Sacseja el dispositiu per suprimir la memòria cau</string>
+    <string-array name="device_shaken_options">
+        <item>Suprimeix la memòria cau</item>
+        <item>Cancel·la</item>
+    </string-array>
+    <string name="drawer_open">Obre el calaix de navegació</string>
+    <string name="drawer_close">Tanca el calaix de navegació</string>
+    <string name="search_hint">Cerca</string>
+    <string name="form_error">Hi ha hagut un problema en enviar el formulari. Comprova les dades i torna-ho a provar.</string>
+    <string name="download">Baixa</string>
+    <string name="download_canceled">S\'ha cancel·lat la baixada</string>
+    <string name="download_channel_name">Baixades de fitxers</string>
+    <string name="download_channel_description">Notificacions de les baixades de fitxers</string>
+    <string name="download_in_progress">Baixada en curs</string>
+    <string name="download_complete">Baixada completada</string>
+    <string name="download_disconnected">Ha fallat la connexió de la baixada.</string>
+    <string name="upload_camera_permission_denied">S\'ha denegat el permís de la càmera</string>
+    <string name="file_handler_not_found">No s\'ha trobat cap aplicació per obrir aquest fitxer.</string>
+    <string name="cannot_open_file_chooser">No s\'ha pogut obrir el selector de fitxers per gestionar aquest tipus de fitxer.</string>
+    <string name="external_storage_explanation">Permet l\'accés a les fotos per pujar el fitxer.</string>
+    <string name="ssl_error_generic">S\'ha produït un error en establir la connexió SSL</string>
+    <string name="ssl_error_expired">El certificat SSL ha caducat</string>
+    <string name="ssl_error_cert">El certificat SSL no és vàlid</string>
+    <string name="location_services_not_enabled">Per continuar, activa la ubicació del dispositiu, que utilitza el servei d\'ubicació de Google</string>
+    <string name="ok">D\'acord</string>
+    <string name="cancel">Cancel·la</string>
+    <string name="no_thanks">No, gràcies</string>
+    <string name="request_permission_explanation_geolocation">Concedeix el permís d\'ubicació</string>
+    <string name="request_permission_explanation_storage">Concedeix el permís d\'emmagatzematge per baixar el fitxer</string>
+    <string name="starting_download">S\'està iniciant la baixada</string>
+    <string name="subscriptions_activity_title">Subscripcions</string>
+    <string name="cleared_cache">S\'ha esborrat la memòria cau</string>
+    <string name="app_logo">Logotip de l\'aplicació</string>
+    <string name="google_service_required">El JSON del servei de Google no s\'ha configurat correctament.</string>
+    <string name="choose_action">Tria una acció</string>
+    <string name="app_not_installed">L\'aplicació no està instal·lada</string>
+    <string name="file_download_title">S\'ha iniciat la baixada</string>
+    <string name="file_download_finished">S\'ha baixat el fitxer</string>
+    <string name="file_download_finished_with_name">S\'ha baixat %1$s</string>
+    <string name="file_download_error">Error de baixada</string>
+    <string name="file_download_finished_gallery">La imatge s\'ha desat a la galeria</string>
+</resources>

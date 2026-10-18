@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Rechercher</string>
+    <string name="action_refresh">Actualiser</string>
+    <string name="action_share">Partager</string>
+    <string name="action_close">Fermer</string>
+    <string name="action_print">Imprimer</string>
+    <string name="action_copy">Copier dans le presse-papiers</string>
+    <string name="action_open_browser">Ouvrir dans le navigateur</string>
+    <string name="shake_to_clear_cache">Secouez l\'appareil pour supprimer le cache</string>
+    <string-array name="device_shaken_options">
+        <item>Supprimer le cache</item>
+        <item>Annuler</item>
+    </string-array>
+    <string name="drawer_open">Ouvrir le panneau de navigation</string>
+    <string name="drawer_close">Fermer le panneau de navigation</string>
+    <string name="search_hint">Rechercher</string>
+    <string name="form_error">Problème lors de l\'envoi. Vérifiez les informations saisies et réessayez.</string>
+    <string name="download">Télécharger</string>
+    <string name="download_canceled">Téléchargement annulé</string>
+    <string name="download_channel_name">Téléchargements de fichiers</string>
+    <string name="download_channel_description">Notifications pour les téléchargements de fichiers</string>
+    <string name="download_in_progress">Téléchargement en cours</string>
+    <string name="download_complete">Téléchargement terminé</string>
+    <string name="download_disconnected">Échec de la connexion lors du téléchargement.</string>
+    <string name="upload_camera_permission_denied">Autorisation d\'accès à l\'appareil photo refusée</string>
+    <string name="file_handler_not_found">Impossible de trouver une application pour ouvrir ce fichier.</string>
+    <string name="cannot_open_file_chooser">Impossible d\'ouvrir le sélecteur de fichiers pour ce type de fichier.</string>
+    <string name="external_storage_explanation">Autorisez l\'accès aux photos pour importer le fichier.</string>
+    <string name="ssl_error_generic">Erreur lors de l\'établissement de la connexion SSL</string>
+    <string name="ssl_error_expired">Le certificat SSL a expiré</string>
+    <string name="ssl_error_cert">Certificat SSL non valide</string>
+    <string name="location_services_not_enabled">Pour continuer, activez la localisation de l\'appareil, qui utilise le service de localisation de Google</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="no_thanks">Non, merci</string>
+    <string name="request_permission_explanation_geolocation">Veuillez autoriser l\'accès à la localisation</string>
+    <string name="request_permission_explanation_storage">Veuillez autoriser l\'accès au stockage pour télécharger le fichier</string>
+    <string name="starting_download">Démarrage du téléchargement</string>
+    <string name="subscriptions_activity_title">Abonnements</string>
+    <string name="cleared_cache">Cache vidé</string>
+    <string name="app_logo">Logo de l\'application</string>
+    <string name="google_service_required">Le fichier JSON du service Google n\'a pas été correctement configuré.</string>
+    <string name="choose_action">Choisir une action</string>
+    <string name="app_not_installed">L\'application n\'est pas installée</string>
+    <string name="file_download_title">Téléchargement démarré</string>
+    <string name="file_download_finished">Fichier téléchargé</string>
+    <string name="file_download_finished_with_name">%1$s téléchargé</string>
+    <string name="file_download_error">Erreur de téléchargement</string>
+    <string name="file_download_finished_gallery">Image enregistrée dans la galerie</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">검색</string>
+    <string name="action_refresh">새로고침</string>
+    <string name="action_share">공유</string>
+    <string name="action_close">닫기</string>
+    <string name="action_print">인쇄</string>
+    <string name="action_copy">링크 주소 복사</string>
+    <string name="action_open_browser">외부 브라우저로 링크 열기</string>
+    <string name="shake_to_clear_cache">기기를 흔들면 캐시를 삭제할 수 있음</string>
+    <string-array name="device_shaken_options">
+        <item>캐시 삭제</item>
+        <item>취소</item>
+    </string-array>
+    <string name="drawer_open">탐색 메뉴 열기</string>
+    <string name="drawer_close">탐색 메뉴 닫기</string>
+    <string name="search_hint">검색</string>
+    <string name="form_error">제출 중 문제가 발생했습니다. 입력 내용을 확인하고 다시 시도하세요.</string>
+    <string name="download">다운로드</string>
+    <string name="download_canceled">다운로드 취소됨</string>
+    <string name="download_channel_name">파일 다운로드</string>
+    <string name="download_channel_description">파일 다운로드 알림</string>
+    <string name="download_in_progress">다운로드 중</string>
+    <string name="download_complete">다운로드 완료</string>
+    <string name="download_disconnected">다운로드 연결에 실패했습니다.</string>
+    <string name="upload_camera_permission_denied">카메라 권한이 거부되었습니다</string>
+    <string name="file_handler_not_found">이 파일을 열 수 있는 앱을 찾을 수 없습니다.</string>
+    <string name="cannot_open_file_chooser">이 파일 형식을 처리할 파일 선택기를 열 수 없습니다.</string>
+    <string name="external_storage_explanation">파일을 업로드하려면 사진 접근을 허용하세요.</string>
+    <string name="ssl_error_generic">SSL 연결을 설정하는 중 오류가 발생했습니다</string>
+    <string name="ssl_error_expired">SSL 인증서가 만료되었습니다</string>
+    <string name="ssl_error_cert">잘못된 SSL 인증서입니다</string>
+    <string name="location_services_not_enabled">계속하려면 Google 위치 서비스를 사용하는 기기 위치를 켜세요</string>
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="no_thanks">아니요, 괜찮아요</string>
+    <string name="request_permission_explanation_geolocation">위치 권한을 허용하세요</string>
+    <string name="request_permission_explanation_storage">파일 다운로드를 위해 저장공간 권한을 허용하세요</string>
+    <string name="starting_download">다운로드를 시작합니다</string>
+    <string name="subscriptions_activity_title">구독</string>
+    <string name="cleared_cache">캐시 삭제됨</string>
+    <string name="app_logo">앱 로고</string>
+    <string name="google_service_required">Google 서비스 JSON이 올바르게 설정되지 않았습니다.</string>
+    <string name="choose_action">작업 선택</string>
+    <string name="app_not_installed">앱이 설치되어 있지 않습니다</string>
+    <string name="file_download_title">다운로드 시작됨</string>
+    <string name="file_download_finished">파일 다운로드 완료</string>
+    <string name="file_download_finished_with_name">%1$s 다운로드 완료</string>
+    <string name="file_download_error">다운로드 오류</string>
+    <string name="file_download_finished_gallery">이미지를 갤러리에 저장했습니다</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Cerca</string>
+    <string name="action_refresh">Aggiorna</string>
+    <string name="action_share">Condividi</string>
+    <string name="action_close">Chiudi</string>
+    <string name="action_print">Stampa</string>
+    <string name="action_copy">Copia negli appunti</string>
+    <string name="action_open_browser">Apri nel browser</string>
+    <string name="shake_to_clear_cache">Scuoti il dispositivo per eliminare la cache</string>
+    <string-array name="device_shaken_options">
+        <item>Elimina cache</item>
+        <item>Annulla</item>
+    </string-array>
+    <string name="drawer_open">Apri il menu di navigazione</string>
+    <string name="drawer_close">Chiudi il menu di navigazione</string>
+    <string name="search_hint">Cerca</string>
+    <string name="form_error">Problema con l\'invio. Controlla i dati e riprova.</string>
+    <string name="download">Scarica</string>
+    <string name="download_canceled">Download annullato</string>
+    <string name="download_channel_name">Download dei file</string>
+    <string name="download_channel_description">Notifiche per i download dei file</string>
+    <string name="download_in_progress">Download in corso</string>
+    <string name="download_complete">Download completato</string>
+    <string name="download_disconnected">Connessione non riuscita durante il download.</string>
+    <string name="upload_camera_permission_denied">Autorizzazione fotocamera negata</string>
+    <string name="file_handler_not_found">Impossibile trovare un\'app per aprire questo file.</string>
+    <string name="cannot_open_file_chooser">Impossibile aprire il selettore di file per gestire questo tipo di file.</string>
+    <string name="external_storage_explanation">Consenti l\'accesso alle foto per caricare il file.</string>
+    <string name="ssl_error_generic">Errore durante la connessione SSL</string>
+    <string name="ssl_error_expired">Il certificato SSL è scaduto</string>
+    <string name="ssl_error_cert">Certificato SSL non valido</string>
+    <string name="location_services_not_enabled">Per continuare, attiva la geolocalizzazione del dispositivo, che utilizza il servizio di geolocalizzazione di Google</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annulla</string>
+    <string name="no_thanks">No, grazie</string>
+    <string name="request_permission_explanation_geolocation">Consenti l\'accesso alla posizione</string>
+    <string name="request_permission_explanation_storage">Consenti l\'accesso all\'archiviazione per scaricare il file</string>
+    <string name="starting_download">Avvio del download</string>
+    <string name="subscriptions_activity_title">Abbonamenti</string>
+    <string name="cleared_cache">Cache cancellata</string>
+    <string name="app_logo">Logo dell\'app</string>
+    <string name="google_service_required">Google Service JSON non è stato configurato correttamente.</string>
+    <string name="choose_action">Scegli un\'azione</string>
+    <string name="app_not_installed">L\'app non è installata</string>
+    <string name="file_download_title">Download avviato</string>
+    <string name="file_download_finished">File scaricato</string>
+    <string name="file_download_finished_with_name">%1$s scaricato</string>
+    <string name="file_download_error">Errore di download</string>
+    <string name="file_download_finished_gallery">Immagine salvata nella Galleria</string>
+</resources>

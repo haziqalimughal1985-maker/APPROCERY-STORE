@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Søk</string>
+    <string name="action_refresh">Oppdater</string>
+    <string name="action_share">Del</string>
+    <string name="action_close">Lukk</string>
+    <string name="action_print">Skriv ut</string>
+    <string name="action_copy">Kopier til utklippstavla</string>
+    <string name="action_open_browser">Opne i nettlesar</string>
+    <string name="shake_to_clear_cache">Rist eininga for å slette snøgglageret</string>
+    <string-array name="device_shaken_options">
+        <item>Slett snøgglageret</item>
+        <item>Avbryt</item>
+    </string-array>
+    <string name="drawer_open">Opne skuffen</string>
+    <string name="drawer_close">Lukk skuffen</string>
+    <string name="search_hint">Søk</string>
+    <string name="form_error">Det oppstod eit problem med innsendinga. Sjekk det du har skrive inn, og prøv på nytt.</string>
+    <string name="download">Last ned</string>
+    <string name="download_canceled">Nedlastinga blei avbroten</string>
+    <string name="download_channel_name">Filnedlastingar</string>
+    <string name="download_channel_description">Varsel om filnedlastingar</string>
+    <string name="download_in_progress">Lastar ned</string>
+    <string name="download_complete">Nedlasting fullført</string>
+    <string name="download_disconnected">Tilkoplinga for nedlastinga mislukkast.</string>
+    <string name="upload_camera_permission_denied">Kameraløyve avslått</string>
+    <string name="file_handler_not_found">Fann ingen app som kan opne denne fila.</string>
+    <string name="cannot_open_file_chooser">Kunne ikkje opne filveljaren for å handtere denne filtypen.</string>
+    <string name="external_storage_explanation">Gi tilgang til bilete for å laste opp fila.</string>
+    <string name="ssl_error_generic">Feil ved oppretting av SSL-tilkopling</string>
+    <string name="ssl_error_expired">SSL-sertifikatet har gått ut</string>
+    <string name="ssl_error_cert">Ugyldig SSL-sertifikat</string>
+    <string name="location_services_not_enabled">For å halde fram må du slå på posisjon på eininga, som brukar Google si posisjonsteneste</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Avbryt</string>
+    <string name="no_thanks">Nei takk</string>
+    <string name="request_permission_explanation_geolocation">Gi løyve til posisjon</string>
+    <string name="request_permission_explanation_storage">Gi lagringsløyve for å laste ned fila</string>
+    <string name="starting_download">Startar nedlastinga</string>
+    <string name="subscriptions_activity_title">Abonnement</string>
+    <string name="cleared_cache">Snøgglageret blei tømt</string>
+    <string name="app_logo">App-logo</string>
+    <string name="google_service_required">Google Service JSON er ikkje rett sett opp.</string>
+    <string name="choose_action">Vel ei handling</string>
+    <string name="app_not_installed">Appen er ikkje installert</string>
+    <string name="file_download_title">Nedlasting starta</string>
+    <string name="file_download_finished">Fila er lasta ned</string>
+    <string name="file_download_finished_with_name">%1$s er lasta ned</string>
+    <string name="file_download_error">Nedlastingsfeil</string>
+    <string name="file_download_finished_gallery">Biletet er lagra i Galleri</string>
+</resources>

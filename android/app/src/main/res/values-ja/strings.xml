@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">検索</string>
+    <string name="action_refresh">更新</string>
+    <string name="action_share">共有</string>
+    <string name="action_close">閉じる</string>
+    <string name="action_print">印刷</string>
+    <string name="action_copy">クリップボードにコピー</string>
+    <string name="action_open_browser">ブラウザで開く</string>
+    <string name="shake_to_clear_cache">端末を振ってキャッシュを削除</string>
+    <string-array name="device_shaken_options">
+        <item>キャッシュを削除</item>
+        <item>キャンセル</item>
+    </string-array>
+    <string name="drawer_open">ナビゲーションドロワーを開く</string>
+    <string name="drawer_close">ナビゲーションドロワーを閉じる</string>
+    <string name="search_hint">検索</string>
+    <string name="form_error">送信できませんでした。入力内容を確認して、もう一度お試しください。</string>
+    <string name="download">ダウンロード</string>
+    <string name="download_canceled">ダウンロードをキャンセルしました</string>
+    <string name="download_channel_name">ファイルのダウンロード</string>
+    <string name="download_channel_description">ファイルのダウンロードに関する通知</string>
+    <string name="download_in_progress">ダウンロード中</string>
+    <string name="download_complete">ダウンロードが完了しました</string>
+    <string name="download_disconnected">ダウンロードの接続に失敗しました。</string>
+    <string name="upload_camera_permission_denied">カメラの権限が拒否されました</string>
+    <string name="file_handler_not_found">このファイルを開けるアプリが見つかりませんでした。</string>
+    <string name="cannot_open_file_chooser">このファイル形式を扱うファイル選択ツールを開けませんでした。</string>
+    <string name="external_storage_explanation">ファイルをアップロードするには、写真へのアクセスを許可してください。</string>
+    <string name="ssl_error_generic">SSL接続の確立中にエラーが発生しました</string>
+    <string name="ssl_error_expired">SSL証明書の有効期限が切れています</string>
+    <string name="ssl_error_cert">SSL証明書が無効です</string>
+    <string name="location_services_not_enabled">続行するには、Googleの位置情報サービスを使用する端末の位置情報をオンにしてください</string>
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="no_thanks">いいえ</string>
+    <string name="request_permission_explanation_geolocation">位置情報の権限を許可してください</string>
+    <string name="request_permission_explanation_storage">ファイルをダウンロードするには、ストレージの権限を許可してください</string>
+    <string name="starting_download">ダウンロードを開始しています</string>
+    <string name="subscriptions_activity_title">定期購入</string>
+    <string name="cleared_cache">キャッシュを削除しました</string>
+    <string name="app_logo">アプリのロゴ</string>
+    <string name="google_service_required">Google Service JSONが正しく設定されていません。</string>
+    <string name="choose_action">操作を選択</string>
+    <string name="app_not_installed">アプリがインストールされていません</string>
+    <string name="file_download_title">ダウンロードを開始しました</string>
+    <string name="file_download_finished">ファイルをダウンロードしました</string>
+    <string name="file_download_finished_with_name">%1$sをダウンロードしました</string>
+    <string name="file_download_error">ダウンロードエラー</string>
+    <string name="file_download_finished_gallery">画像をギャラリーに保存しました</string>
+</resources>

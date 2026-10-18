@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Lorg</string>
+    <string name="action_refresh">Ath-luchdaich</string>
+    <string name="action_share">Co-roinn</string>
+    <string name="action_close">Dùin</string>
+    <string name="action_print">Clò-bhuail</string>
+    <string name="action_copy">Dèan lethbhreac dhan bhòrd-chliopaichean</string>
+    <string name="action_open_browser">Fosgail sa bhrabhsair</string>
+    <string name="shake_to_clear_cache">Crath an t-uidheam gus an tasgadan a sguabadh às</string>
+    <string-array name="device_shaken_options">
+        <item>Sguab às an tasgadan</item>
+        <item>Sguir dheth</item>
+    </string-array>
+    <string name="drawer_open">Fosgail an drathair</string>
+    <string name="drawer_close">Dùin an drathair</string>
+    <string name="search_hint">Lorg</string>
+    <string name="form_error">Bha duilgheadas leis a\' chur a-steach. Thoir sùil air na chuir thu a-steach is feuch ris a-rithist.</string>
+    <string name="download">Luchdaich a-nuas</string>
+    <string name="download_canceled">Sguireadh dhen luchdadh a-nuas</string>
+    <string name="download_channel_name">Luchdaidhean a-nuas de dh\'fhaidhlichean</string>
+    <string name="download_channel_description">Brathan airson luchdaidhean a-nuas de dh\'fhaidhlichean</string>
+    <string name="download_in_progress">A\' luchdadh a-nuas</string>
+    <string name="download_complete">Chaidh an luchdadh a-nuas a choileanadh</string>
+    <string name="download_disconnected">Dh\'fhàillig an ceangal luchdaidh a-nuas.</string>
+    <string name="upload_camera_permission_denied">Chaidh cead a\' chamara a dhiùltadh</string>
+    <string name="file_handler_not_found">Cha b\' urrainn aplacaid a lorg gus am faidhle seo fhosgladh.</string>
+    <string name="cannot_open_file_chooser">Cha b\' urrainn an roghnaichear fhaidhlichean fhosgladh airson an seòrsa faidhle seo.</string>
+    <string name="external_storage_explanation">Ceadaich inntrigeadh dha na dealbhan gus am faidhle a luchdadh suas.</string>
+    <string name="ssl_error_generic">Mearachd a\' stèidheachadh ceangal SSL</string>
+    <string name="ssl_error_expired">Dh\'fhalbh an ùine air an teisteanas SSL</string>
+    <string name="ssl_error_cert">Teisteanas SSL mì-dhligheach</string>
+    <string name="location_services_not_enabled">Gus leantainn air adhart, cuir air ionad an uidheim, a chleachdas seirbheis ionaid Google</string>
+    <string name="ok">Ceart ma-thà</string>
+    <string name="cancel">Sguir dheth</string>
+    <string name="no_thanks">Chan eil, tapadh leat</string>
+    <string name="request_permission_explanation_geolocation">Ceadaich cead an ionaid</string>
+    <string name="request_permission_explanation_storage">Ceadaich cead an stòrais gus faidhle a luchdadh a-nuas</string>
+    <string name="starting_download">A\' tòiseachadh air an luchdadh a-nuas</string>
+    <string name="subscriptions_activity_title">Fo-sgrìobhaidhean</string>
+    <string name="cleared_cache">Chaidh an tasgadan a sguabadh às</string>
+    <string name="app_logo">Suaicheantas na h-aplacaid</string>
+    <string name="google_service_required">Cha deach an Google Service JSON a shuidheachadh mar bu chòir.</string>
+    <string name="choose_action">Tagh gnìomh</string>
+    <string name="app_not_installed">Chan eil an aplacaid air a stàladh</string>
+    <string name="file_download_title">Thòisich an luchdadh a-nuas</string>
+    <string name="file_download_finished">Chaidh am faidhle a luchdadh a-nuas</string>
+    <string name="file_download_finished_with_name">Chaidh %1$s a luchdadh a-nuas</string>
+    <string name="file_download_error">Mearachd luchdaidh a-nuas</string>
+    <string name="file_download_finished_gallery">Chaidh an dealbh a shàbhaladh dhan Ghailearaidh</string>
+</resources>

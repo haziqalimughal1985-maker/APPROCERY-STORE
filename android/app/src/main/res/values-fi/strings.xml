@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Hae</string>
+    <string name="action_refresh">Päivitä</string>
+    <string name="action_share">Jaa</string>
+    <string name="action_close">Sulje</string>
+    <string name="action_print">Tulosta</string>
+    <string name="action_copy">Kopioi leikepöydälle</string>
+    <string name="action_open_browser">Avaa selaimessa</string>
+    <string name="shake_to_clear_cache">Tyhjennä välimuisti ravistamalla laitetta</string>
+    <string-array name="device_shaken_options">
+        <item>Tyhjennä välimuisti</item>
+        <item>Peruuta</item>
+    </string-array>
+    <string name="drawer_open">Avaa valikko</string>
+    <string name="drawer_close">Sulje valikko</string>
+    <string name="search_hint">Hae</string>
+    <string name="form_error">Lähetyksessä tapahtui virhe. Tarkista tiedot ja yritä uudelleen.</string>
+    <string name="download">Lataa</string>
+    <string name="download_canceled">Lataus peruutettu</string>
+    <string name="download_channel_name">Tiedostojen lataukset</string>
+    <string name="download_channel_description">Ilmoitukset tiedostojen latauksista</string>
+    <string name="download_in_progress">Lataus käynnissä</string>
+    <string name="download_complete">Lataus valmis</string>
+    <string name="download_disconnected">Latausyhteys epäonnistui.</string>
+    <string name="upload_camera_permission_denied">Kameran käyttölupa evätty</string>
+    <string name="file_handler_not_found">Tämän tiedoston avaamiseen ei löytynyt sovellusta.</string>
+    <string name="cannot_open_file_chooser">Tämän tiedostotyypin käsittelyä varten ei voitu avata tiedostonvalitsinta.</string>
+    <string name="external_storage_explanation">Salli kuvien käyttö tiedoston lähettämiseksi.</string>
+    <string name="ssl_error_generic">Virhe SSL-yhteyden muodostamisessa</string>
+    <string name="ssl_error_expired">SSL-varmenne on vanhentunut</string>
+    <string name="ssl_error_cert">Virheellinen SSL-varmenne</string>
+    <string name="location_services_not_enabled">Jatka ottamalla käyttöön laitteen sijainti, joka käyttää Googlen sijaintipalvelua</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Peruuta</string>
+    <string name="no_thanks">Ei kiitos</string>
+    <string name="request_permission_explanation_geolocation">Salli sijainnin käyttöoikeus</string>
+    <string name="request_permission_explanation_storage">Salli tallennustilan käyttöoikeus tiedoston lataamista varten</string>
+    <string name="starting_download">Aloitetaan lataus</string>
+    <string name="subscriptions_activity_title">Tilaukset</string>
+    <string name="cleared_cache">Välimuisti tyhjennetty</string>
+    <string name="app_logo">Sovelluksen logo</string>
+    <string name="google_service_required">Google Service JSON -määritystä ei ole tehty oikein.</string>
+    <string name="choose_action">Valitse toiminto</string>
+    <string name="app_not_installed">Sovellusta ei ole asennettu</string>
+    <string name="file_download_title">Lataus aloitettu</string>
+    <string name="file_download_finished">Tiedosto ladattu</string>
+    <string name="file_download_finished_with_name">%1$s ladattu</string>
+    <string name="file_download_error">Latausvirhe</string>
+    <string name="file_download_finished_gallery">Kuva tallennettu galleriaan</string>
+</resources>

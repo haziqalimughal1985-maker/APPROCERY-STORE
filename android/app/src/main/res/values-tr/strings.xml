@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Ara</string>
+    <string name="action_refresh">Yenile</string>
+    <string name="action_share">Paylaş</string>
+    <string name="action_close">Kapat</string>
+    <string name="action_print">Yazdır</string>
+    <string name="action_copy">Panoya kopyala</string>
+    <string name="action_open_browser">Tarayıcıda aç</string>
+    <string name="shake_to_clear_cache">Önbelleği silmek için cihazı sallayın</string>
+    <string-array name="device_shaken_options">
+        <item>Önbelleği sil</item>
+        <item>İptal</item>
+    </string-array>
+    <string name="drawer_open">Çekmeceyi aç</string>
+    <string name="drawer_close">Çekmeceyi kapat</string>
+    <string name="search_hint">Ara</string>
+    <string name="form_error">Gönderimde sorun oluştu. Bilgileri kontrol edip tekrar deneyin.</string>
+    <string name="download">İndir</string>
+    <string name="download_canceled">İndirme iptal edildi</string>
+    <string name="download_channel_name">Dosya indirmeleri</string>
+    <string name="download_channel_description">Dosya indirmeleri için bildirimler</string>
+    <string name="download_in_progress">İndirme sürüyor</string>
+    <string name="download_complete">İndirme tamamlandı</string>
+    <string name="download_disconnected">İndirme bağlantısı başarısız oldu.</string>
+    <string name="upload_camera_permission_denied">Kamera izni reddedildi</string>
+    <string name="file_handler_not_found">Bu dosyayı açabilecek bir uygulama bulunamadı.</string>
+    <string name="cannot_open_file_chooser">Bu dosya türünü işlemek için dosya seçici açılamadı.</string>
+    <string name="external_storage_explanation">Dosya yüklemek için fotoğraf erişimine izin verin.</string>
+    <string name="ssl_error_generic">SSL bağlantısı kurulurken hata oluştu</string>
+    <string name="ssl_error_expired">SSL sertifikasının süresi doldu</string>
+    <string name="ssl_error_cert">Geçersiz SSL sertifikası</string>
+    <string name="location_services_not_enabled">Devam etmek için Google\'ın konum hizmetini kullanan cihaz konumunu açın</string>
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="no_thanks">Hayır, teşekkürler</string>
+    <string name="request_permission_explanation_geolocation">Lütfen konum izni verin</string>
+    <string name="request_permission_explanation_storage">Dosya indirmek için lütfen depolama izni verin</string>
+    <string name="starting_download">İndirme başlatılıyor</string>
+    <string name="subscriptions_activity_title">Abonelikler</string>
+    <string name="cleared_cache">Önbellek temizlendi</string>
+    <string name="app_logo">Uygulama logosu</string>
+    <string name="google_service_required">Google Service JSON düzgün şekilde ayarlanmamış.</string>
+    <string name="choose_action">Bir işlem seçin</string>
+    <string name="app_not_installed">Uygulama yüklü değil</string>
+    <string name="file_download_title">İndirme başladı</string>
+    <string name="file_download_finished">Dosya indirildi</string>
+    <string name="file_download_finished_with_name">%1$s indirildi</string>
+    <string name="file_download_error">İndirme hatası</string>
+    <string name="file_download_finished_gallery">Görsel Galeri\'ye kaydedildi</string>
+</resources>

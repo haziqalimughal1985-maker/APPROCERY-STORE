@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">搜尋</string>
+    <string name="action_refresh">重新整理</string>
+    <string name="action_share">分享</string>
+    <string name="action_close">關閉</string>
+    <string name="action_print">列印</string>
+    <string name="action_copy">複製到剪貼簿</string>
+    <string name="action_open_browser">在瀏覽器中開啟</string>
+    <string name="shake_to_clear_cache">搖動裝置以刪除快取</string>
+    <string-array name="device_shaken_options">
+        <item>刪除快取</item>
+        <item>取消</item>
+    </string-array>
+    <string name="drawer_open">開啟導覽匣</string>
+    <string name="drawer_close">關閉導覽匣</string>
+    <string name="search_hint">搜尋</string>
+    <string name="form_error">提交時發生問題，請檢查輸入內容後再試一次。</string>
+    <string name="download">下載</string>
+    <string name="download_canceled">已取消下載</string>
+    <string name="download_channel_name">檔案下載</string>
+    <string name="download_channel_description">檔案下載通知</string>
+    <string name="download_in_progress">正在下載</string>
+    <string name="download_complete">下載完成</string>
+    <string name="download_disconnected">下載連線失敗。</string>
+    <string name="upload_camera_permission_denied">相機權限遭拒</string>
+    <string name="file_handler_not_found">找不到可開啟此檔案的應用程式。</string>
+    <string name="cannot_open_file_chooser">無法開啟檔案選擇器來處理此檔案類型。</string>
+    <string name="external_storage_explanation">請允許存取相片以上傳檔案。</string>
+    <string name="ssl_error_generic">建立 SSL 連線時發生錯誤</string>
+    <string name="ssl_error_expired">SSL 憑證已過期</string>
+    <string name="ssl_error_cert">SSL 憑證無效</string>
+    <string name="location_services_not_enabled">如要繼續，請開啟裝置定位功能，此功能會使用 Google 的定位服務</string>
+    <string name="ok">確定</string>
+    <string name="cancel">取消</string>
+    <string name="no_thanks">不用了，謝謝</string>
+    <string name="request_permission_explanation_geolocation">請允許定位權限</string>
+    <string name="request_permission_explanation_storage">請允許儲存空間權限以下載檔案</string>
+    <string name="starting_download">開始下載</string>
+    <string name="subscriptions_activity_title">訂閱</string>
+    <string name="cleared_cache">已清除快取</string>
+    <string name="app_logo">應用程式標誌</string>
+    <string name="google_service_required">Google Service JSON 未正確設定。</string>
+    <string name="choose_action">選擇動作</string>
+    <string name="app_not_installed">未安裝應用程式</string>
+    <string name="file_download_title">已開始下載</string>
+    <string name="file_download_finished">檔案已下載</string>
+    <string name="file_download_finished_with_name">已下載 %1$s</string>
+    <string name="file_download_error">下載錯誤</string>
+    <string name="file_download_finished_gallery">圖片已儲存至圖庫</string>
+</resources>

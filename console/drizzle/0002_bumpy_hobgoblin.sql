@@ -1,0 +1,8 @@
+ALTER TABLE `adminAuditLogs` ADD CONSTRAINT `adminAuditLogs_actorId_users_id_fk` FOREIGN KEY (`actorId`) REFERENCES `users`(`id`) ON DELETE no action ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE `appScreenshots` ADD CONSTRAINT `appScreenshots_appId_apps_id_fk` FOREIGN KEY (`appId`) REFERENCES `apps`(`id`) ON DELETE no action ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE `appVersions` ADD CONSTRAINT `appVersions_appId_apps_id_fk` FOREIGN KEY (`appId`) REFERENCES `apps`(`id`) ON DELETE no action ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE `appVersions` ADD CONSTRAINT `appVersions_uploadedBy_users_id_fk` FOREIGN KEY (`uploadedBy`) REFERENCES `users`(`id`) ON DELETE no action ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE `apps` ADD CONSTRAINT `apps_ownerId_users_id_fk` FOREIGN KEY (`ownerId`) REFERENCES `users`(`id`) ON DELETE no action ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE `apps` ADD CONSTRAINT `apps_categoryId_categories_id_fk` FOREIGN KEY (`categoryId`) REFERENCES `categories`(`id`) ON DELETE no action ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE `downloadEvents` ADD CONSTRAINT `downloadEvents_appId_apps_id_fk` FOREIGN KEY (`appId`) REFERENCES `apps`(`id`) ON DELETE no action ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE `downloadEvents` ADD CONSTRAINT `downloadEvents_versionId_appVersions_id_fk` FOREIGN KEY (`versionId`) REFERENCES `appVersions`(`id`) ON DELETE no action ON UPDATE no action;

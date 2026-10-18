@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Zoeken</string>
+    <string name="action_refresh">Vernieuwen</string>
+    <string name="action_share">Delen</string>
+    <string name="action_close">Sluiten</string>
+    <string name="action_print">Afdrukken</string>
+    <string name="action_copy">Kopiëren naar klembord</string>
+    <string name="action_open_browser">Openen in browser</string>
+    <string name="shake_to_clear_cache">Schud het apparaat om de cache te wissen</string>
+    <string-array name="device_shaken_options">
+        <item>Cache wissen</item>
+        <item>Annuleren</item>
+    </string-array>
+    <string name="drawer_open">Navigatievenster openen</string>
+    <string name="drawer_close">Navigatievenster sluiten</string>
+    <string name="search_hint">Zoeken</string>
+    <string name="form_error">Er is iets misgegaan bij het verzenden. Controleer je invoer en probeer het opnieuw.</string>
+    <string name="download">Downloaden</string>
+    <string name="download_canceled">Download geannuleerd</string>
+    <string name="download_channel_name">Bestandsdownloads</string>
+    <string name="download_channel_description">Meldingen voor bestandsdownloads</string>
+    <string name="download_in_progress">Download wordt uitgevoerd</string>
+    <string name="download_complete">Download voltooid</string>
+    <string name="download_disconnected">Downloadverbinding mislukt.</string>
+    <string name="upload_camera_permission_denied">Cameratoegang geweigerd</string>
+    <string name="file_handler_not_found">Geen app gevonden om dit bestand te openen.</string>
+    <string name="cannot_open_file_chooser">Kan de bestandskiezer niet openen voor dit bestandstype.</string>
+    <string name="external_storage_explanation">Geef toegang tot foto\'s om een bestand te uploaden.</string>
+    <string name="ssl_error_generic">Fout bij het tot stand brengen van de SSL-verbinding</string>
+    <string name="ssl_error_expired">SSL-certificaat is verlopen</string>
+    <string name="ssl_error_cert">Ongeldig SSL-certificaat</string>
+    <string name="location_services_not_enabled">Schakel de locatie van je apparaat in om door te gaan. Hierbij wordt de locatieservice van Google gebruikt</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuleren</string>
+    <string name="no_thanks">Nee, bedankt</string>
+    <string name="request_permission_explanation_geolocation">Geef toestemming voor locatietoegang</string>
+    <string name="request_permission_explanation_storage">Geef toestemming voor opslagtoegang om bestanden te downloaden</string>
+    <string name="starting_download">Download wordt gestart</string>
+    <string name="subscriptions_activity_title">Abonnementen</string>
+    <string name="cleared_cache">Cache gewist</string>
+    <string name="app_logo">App-logo</string>
+    <string name="google_service_required">Google Service JSON is niet correct ingesteld.</string>
+    <string name="choose_action">Kies een actie</string>
+    <string name="app_not_installed">App is niet geïnstalleerd</string>
+    <string name="file_download_title">Download gestart</string>
+    <string name="file_download_finished">Bestand gedownload</string>
+    <string name="file_download_finished_with_name">%1$s gedownload</string>
+    <string name="file_download_error">Downloadfout</string>
+    <string name="file_download_finished_gallery">Afbeelding opgeslagen in Galerij</string>
+</resources>

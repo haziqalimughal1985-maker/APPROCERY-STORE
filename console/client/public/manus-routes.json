@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "APK Store Developer Console" },
+    { "path": "/apps", "title": "Published apps" },
+    { "path": "/apps/:slug", "title": "App details" },
+    { "path": "/console", "title": "Developer console" },
+    { "path": "/admin", "title": "Admin review" }
+  ]
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_search">Søg</string>
+    <string name="action_refresh">Opdater</string>
+    <string name="action_share">Del</string>
+    <string name="action_close">Luk</string>
+    <string name="action_print">Udskriv</string>
+    <string name="action_copy">Kopiér til udklipsholder</string>
+    <string name="action_open_browser">Åbn i browser</string>
+    <string name="shake_to_clear_cache">Ryst enheden for at slette cache</string>
+    <string-array name="device_shaken_options">
+        <item>Slet cache</item>
+        <item>Annuller</item>
+    </string-array>
+    <string name="drawer_open">Åbn navigationspanel</string>
+    <string name="drawer_close">Luk navigationspanel</string>
+    <string name="search_hint">Søg</string>
+    <string name="form_error">Der opstod et problem med indsendelsen. Tjek dine indtastninger, og prøv igen.</string>
+    <string name="download">Download</string>
+    <string name="download_canceled">Download annulleret</string>
+    <string name="download_channel_name">Fildownloads</string>
+    <string name="download_channel_description">Notifikationer for fildownloads</string>
+    <string name="download_in_progress">Download i gang</string>
+    <string name="download_complete">Download fuldført</string>
+    <string name="download_disconnected">Downloadforbindelsen mislykkedes.</string>
+    <string name="upload_camera_permission_denied">Kameratilladelse afvist</string>
+    <string name="file_handler_not_found">Der blev ikke fundet en app til at åbne denne fil.</string>
+    <string name="cannot_open_file_chooser">Filvælgeren til denne filtype kunne ikke åbnes.</string>
+    <string name="external_storage_explanation">Tillad adgang til billeder for at uploade filen.</string>
+    <string name="ssl_error_generic">Der opstod en fejl ved oprettelse af SSL-forbindelse</string>
+    <string name="ssl_error_expired">SSL-certifikatet er udløbet</string>
+    <string name="ssl_error_cert">Ugyldigt SSL-certifikat</string>
+    <string name="location_services_not_enabled">Slå enhedens placering til for at fortsætte. Placeringsfunktionen bruger Googles placeringstjeneste.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuller</string>
+    <string name="no_thanks">Nej tak</string>
+    <string name="request_permission_explanation_geolocation">Tillad adgang til placering</string>
+    <string name="request_permission_explanation_storage">Tillad adgang til lagerplads for at downloade filer</string>
+    <string name="starting_download">Starter download</string>
+    <string name="subscriptions_activity_title">Abonnementer</string>
+    <string name="cleared_cache">Cache ryddet</string>
+    <string name="app_logo">App-logo</string>
+    <string name="google_service_required">Google Service JSON blev ikke konfigureret korrekt.</string>
+    <string name="choose_action">Vælg en handling</string>
+    <string name="app_not_installed">Appen er ikke installeret</string>
+    <string name="file_download_title">Download startet</string>
+    <string name="file_download_finished">Fil downloadet</string>
+    <string name="file_download_finished_with_name">%1$s downloadet</string>
+    <string name="file_download_error">Downloadfejl</string>
+    <string name="file_download_finished_gallery">Billede gemt i Galleri</string>
+</resources>
